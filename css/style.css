@@ -1,0 +1,21 @@
+#navbarRight{
+  margin-left: 75%;
+}
+
+.navbar{
+  /* background-color: #fff; */
+  box-shadow: none;
+  height: 80px;
+}
+
+.name1 {
+  font-size: 24;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #2b2b2b;
+  padding-left:5%;
+}
+
+.test{
+  display: inline-block;
+}
