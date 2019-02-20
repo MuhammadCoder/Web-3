@@ -1,21 +1,62 @@
+/* Universial */
+.BodyText {
+  color: #4B515D;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+/* navbar */
 #navbarRight{
   margin-left: 75%;
 }
 
 .navbar{
-  /* background-color: #fff; */
   box-shadow: none;
-  height: 80px;
+  height: 120px;
 }
 
-.name1 {
-  font-size: 24;
+#name1 {
+  font-size: 104;
   font-weight: 700;
   text-transform: uppercase;
-  color: #2b2b2b;
+  /* color: #3E4551; */
   padding-left:5%;
+  font-family: 'Raleway', sans-serif;
 }
 
 .test{
   display: inline-block;
 }
+
+.nonActive{
+  color: #4B515D;
+  font-weight: 400;
+}
+
+.nonActive:hover{
+  color: #4285F4;
+  border-bottom: #4285F4;
+  text-decoration: underline;
+}
+
+/* main */
+
+.social-ion{
+  color:#4B515D;
+  margin-left: 30px;
+}
+/* hover icons */
+.parent:hover > a {
+  opacity: 0.5;
+}
+
+.parent:hover > a:hover {
+  opacity: 1.0;
+}
+
+.mainBtn:hover{
+  color: white;
+}
+
+
+
