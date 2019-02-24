@@ -52,11 +52,9 @@
 
 .parent:hover > a:hover {
   opacity: 1.0;
+  /* color: #4B515D; */
 }
 
 .mainBtn:hover{
   color: white;
 }
-
-
-
