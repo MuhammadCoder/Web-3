@@ -66,69 +66,7 @@
   color: white;
 }
 
-
-
 /* Port */
-
-/* .projectParent:hover > div {
-  opacity: 0.5;
-  background-color: #00a8e8;
-}
-
-.projectParent:hover > div:hover {
-  opacity: 1;
-} */
-
-
-.projectbox{
-  width: 320px;
-  height: 360px;
-  /* border-radius: 1%; */
-  border-radius: 7.5px;
-  background-size: cover;
-  background-position: center;
-  box-shadow: 0 0 8px rgb(0, 0, 0, .2);
-}
-
-thumbnail-overlay{
-  opacity: 0;
-  position: absolute;
-  background-color: rgba(0, 0, 0, .6);
-  width: 320px;
-  height: 360px;
-  border-radius: 7.5px;
-  padding: 40px;
-  transition: all ease 200ms;
-  display: none;
-}
-
-.thumbnail-overlay:hover{
-opacity: 0.9;
-border-radius: 7.5px;
-position: absolute;
-background-color: #00a8e8;
-}
-
-.thumbnail-overlay p {
-  text-align: center;
-  font-size: 0.8em;
-}
-
-.portbtn
-{
-  color: #fff;
-  display: inline-block;
-  background-color: black;
-  border-radius: 3.75px;
-}
-
-.external {
-  overflow: hidden;
-  position: relative;
-  /* visibility: hidden; */
-  /* display: none; */
-}
-
 
 /* about me */
 .about-me {
