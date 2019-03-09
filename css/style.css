@@ -2,9 +2,13 @@
 .BodyText {
   color: #4B515D;
   font-family: 'Roboto', sans-serif;
+  /* font-family: 'Raleway', sans-serif; */
 }
 
-
+.titleFont {
+  color: #4B515D;
+  font-family: 'Roboto', sans-serif;
+}
 
 /* navbar */
 #navbarRight{
